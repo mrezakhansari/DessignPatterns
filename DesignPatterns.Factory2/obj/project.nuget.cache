@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqHkUs1z0IGYrf6ISOLVxmJHbG4qaHIsGJnfeLSyu8mPJnyaO2VPE2KfU971iy/joiotzkHD6t+81f2/2RL0IQ==",
+  "success": true,
+  "projectFilePath": "D:\\DesignPatterns\\DesignPatterns.Factory2\\DesignPatterns.Factory2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://172.24.23.36/TosProject/Bcts/_packaging/Package/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

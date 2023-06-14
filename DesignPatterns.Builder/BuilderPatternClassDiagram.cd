@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Director">
+    <Position X="11.208" Y="3.115" Height="0.302" Width="0.773" />
+  </Comment>
+  <Comment CommentText="Product">
+    <Position X="6.802" Y="8.865" Height="0.344" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Builder">
+    <Position X="7" Y="4.409" Height="0.365" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Concrete Builder 1">
+    <Position X="3.635" Y="7.805" Height="0.302" Width="1.252" />
+  </Comment>
+  <Comment CommentText="Concrete Builder 2">
+    <Position X="10.49" Y="8.107" Height="0.302" Width="1.252" />
+  </Comment>
+  <Class Name="DesignPatterns.Builder.House">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACAAAAAgAAECAAAAAgEAAAABAAEAAAABAAAAAA=</HashCode>
+      <FileName>House.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DesignPatterns.Builder.ConcreteHouseBuilder">
+    <Position X="8.25" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAABACACAAAAAAAAAAAAAABAAAAAAAAACAAA=</HashCode>
+      <FileName>ConcreteHouseBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DesignPatterns.Builder.PrefabricatedHouseBuilder">
+    <Position X="1.25" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAABACACAAAAAAAAAAAAAABAAAAAAAAACAAA=</HashCode>
+      <FileName>PrefabricatedHouseBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DesignPatterns.Builder.ConstructionEngineer">
+    <Position X="9" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConstructionEngineer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DesignPatterns.Builder.HouseBuilder">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAABACACAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>HouseBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

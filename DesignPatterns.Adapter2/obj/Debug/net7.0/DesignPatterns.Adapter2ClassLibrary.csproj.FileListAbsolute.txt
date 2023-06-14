@@ -1,0 +1,12 @@
+D:\DesignPatterns\DesignPatterns.Adapter2\obj\Debug\net7.0\DesignPatterns.Adapter2ClassLibrary.csproj.AssemblyReference.cache
+D:\DesignPatterns\DesignPatterns.Adapter2\obj\Debug\net7.0\DesignPatterns.Adapter2ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\DesignPatterns.Adapter2\obj\Debug\net7.0\DesignPatterns.Adapter2ClassLibrary.AssemblyInfoInputs.cache
+D:\DesignPatterns\DesignPatterns.Adapter2\obj\Debug\net7.0\DesignPatterns.Adapter2ClassLibrary.AssemblyInfo.cs
+D:\DesignPatterns\DesignPatterns.Adapter2\obj\Debug\net7.0\DesignPatterns.Adapter2ClassLibrary.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\DesignPatterns.Adapter2\bin\Debug\net7.0\DesignPatterns.Adapter2ClassLibrary.deps.json
+D:\DesignPatterns\DesignPatterns.Adapter2\bin\Debug\net7.0\DesignPatterns.Adapter2ClassLibrary.dll
+D:\DesignPatterns\DesignPatterns.Adapter2\bin\Debug\net7.0\DesignPatterns.Adapter2ClassLibrary.pdb
+D:\DesignPatterns\DesignPatterns.Adapter2\obj\Debug\net7.0\DesignPatterns.Adapter2ClassLibrary.dll
+D:\DesignPatterns\DesignPatterns.Adapter2\obj\Debug\net7.0\refint\DesignPatterns.Adapter2ClassLibrary.dll
+D:\DesignPatterns\DesignPatterns.Adapter2\obj\Debug\net7.0\DesignPatterns.Adapter2ClassLibrary.pdb
+D:\DesignPatterns\DesignPatterns.Adapter2\obj\Debug\net7.0\ref\DesignPatterns.Adapter2ClassLibrary.dll

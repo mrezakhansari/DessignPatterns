@@ -1,0 +1,15 @@
+D:\DesignPatterns\DesignPatterns.AbstractFactory\bin\Debug\net7.0\DesignPatterns.AbstractFactory.exe
+D:\DesignPatterns\DesignPatterns.AbstractFactory\bin\Debug\net7.0\DesignPatterns.AbstractFactory.deps.json
+D:\DesignPatterns\DesignPatterns.AbstractFactory\bin\Debug\net7.0\DesignPatterns.AbstractFactory.runtimeconfig.json
+D:\DesignPatterns\DesignPatterns.AbstractFactory\bin\Debug\net7.0\DesignPatterns.AbstractFactory.dll
+D:\DesignPatterns\DesignPatterns.AbstractFactory\bin\Debug\net7.0\DesignPatterns.AbstractFactory.pdb
+D:\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net7.0\DesignPatterns.AbstractFactory.csproj.AssemblyReference.cache
+D:\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net7.0\DesignPatterns.AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net7.0\DesignPatterns.AbstractFactory.AssemblyInfoInputs.cache
+D:\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net7.0\DesignPatterns.AbstractFactory.AssemblyInfo.cs
+D:\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net7.0\DesignPatterns.AbstractFactory.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net7.0\DesignPatterns.AbstractFactory.dll
+D:\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net7.0\refint\DesignPatterns.AbstractFactory.dll
+D:\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net7.0\DesignPatterns.AbstractFactory.pdb
+D:\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net7.0\DesignPatterns.AbstractFactory.genruntimeconfig.cache
+D:\DesignPatterns\DesignPatterns.AbstractFactory\obj\Debug\net7.0\ref\DesignPatterns.AbstractFactory.dll

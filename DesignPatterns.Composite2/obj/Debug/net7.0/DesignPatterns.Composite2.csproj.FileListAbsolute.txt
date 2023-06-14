@@ -1,0 +1,15 @@
+D:\DesignPatterns\DesignPatterns.Composite2\bin\Debug\net7.0\DesignPatterns.Composite2.exe
+D:\DesignPatterns\DesignPatterns.Composite2\bin\Debug\net7.0\DesignPatterns.Composite2.deps.json
+D:\DesignPatterns\DesignPatterns.Composite2\bin\Debug\net7.0\DesignPatterns.Composite2.runtimeconfig.json
+D:\DesignPatterns\DesignPatterns.Composite2\bin\Debug\net7.0\DesignPatterns.Composite2.dll
+D:\DesignPatterns\DesignPatterns.Composite2\bin\Debug\net7.0\DesignPatterns.Composite2.pdb
+D:\DesignPatterns\DesignPatterns.Composite2\obj\Debug\net7.0\DesignPatterns.Composite2.csproj.AssemblyReference.cache
+D:\DesignPatterns\DesignPatterns.Composite2\obj\Debug\net7.0\DesignPatterns.Composite2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\DesignPatterns.Composite2\obj\Debug\net7.0\DesignPatterns.Composite2.AssemblyInfoInputs.cache
+D:\DesignPatterns\DesignPatterns.Composite2\obj\Debug\net7.0\DesignPatterns.Composite2.AssemblyInfo.cs
+D:\DesignPatterns\DesignPatterns.Composite2\obj\Debug\net7.0\DesignPatterns.Composite2.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\DesignPatterns.Composite2\obj\Debug\net7.0\DesignPatterns.Composite2.dll
+D:\DesignPatterns\DesignPatterns.Composite2\obj\Debug\net7.0\refint\DesignPatterns.Composite2.dll
+D:\DesignPatterns\DesignPatterns.Composite2\obj\Debug\net7.0\DesignPatterns.Composite2.pdb
+D:\DesignPatterns\DesignPatterns.Composite2\obj\Debug\net7.0\DesignPatterns.Composite2.genruntimeconfig.cache
+D:\DesignPatterns\DesignPatterns.Composite2\obj\Debug\net7.0\ref\DesignPatterns.Composite2.dll

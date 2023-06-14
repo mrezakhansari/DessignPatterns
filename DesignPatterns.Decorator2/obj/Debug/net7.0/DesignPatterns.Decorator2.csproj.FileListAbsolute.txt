@@ -1,0 +1,15 @@
+D:\DesignPatterns\DesignPatterns.Decorator2\bin\Debug\net7.0\DesignPatterns.Decorator2.exe
+D:\DesignPatterns\DesignPatterns.Decorator2\bin\Debug\net7.0\DesignPatterns.Decorator2.deps.json
+D:\DesignPatterns\DesignPatterns.Decorator2\bin\Debug\net7.0\DesignPatterns.Decorator2.runtimeconfig.json
+D:\DesignPatterns\DesignPatterns.Decorator2\bin\Debug\net7.0\DesignPatterns.Decorator2.dll
+D:\DesignPatterns\DesignPatterns.Decorator2\bin\Debug\net7.0\DesignPatterns.Decorator2.pdb
+D:\DesignPatterns\DesignPatterns.Decorator2\obj\Debug\net7.0\DesignPatterns.Decorator2.csproj.AssemblyReference.cache
+D:\DesignPatterns\DesignPatterns.Decorator2\obj\Debug\net7.0\DesignPatterns.Decorator2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\DesignPatterns.Decorator2\obj\Debug\net7.0\DesignPatterns.Decorator2.AssemblyInfoInputs.cache
+D:\DesignPatterns\DesignPatterns.Decorator2\obj\Debug\net7.0\DesignPatterns.Decorator2.AssemblyInfo.cs
+D:\DesignPatterns\DesignPatterns.Decorator2\obj\Debug\net7.0\DesignPatterns.Decorator2.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\DesignPatterns.Decorator2\obj\Debug\net7.0\DesignPatterns.Decorator2.dll
+D:\DesignPatterns\DesignPatterns.Decorator2\obj\Debug\net7.0\refint\DesignPatterns.Decorator2.dll
+D:\DesignPatterns\DesignPatterns.Decorator2\obj\Debug\net7.0\DesignPatterns.Decorator2.pdb
+D:\DesignPatterns\DesignPatterns.Decorator2\obj\Debug\net7.0\DesignPatterns.Decorator2.genruntimeconfig.cache
+D:\DesignPatterns\DesignPatterns.Decorator2\obj\Debug\net7.0\ref\DesignPatterns.Decorator2.dll

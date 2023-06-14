@@ -1,0 +1,15 @@
+D:\DesignPatterns\DesignPatterns.Bridge3\bin\Debug\net7.0\DesignPatterns.Bridge3.exe
+D:\DesignPatterns\DesignPatterns.Bridge3\bin\Debug\net7.0\DesignPatterns.Bridge3.deps.json
+D:\DesignPatterns\DesignPatterns.Bridge3\bin\Debug\net7.0\DesignPatterns.Bridge3.runtimeconfig.json
+D:\DesignPatterns\DesignPatterns.Bridge3\bin\Debug\net7.0\DesignPatterns.Bridge3.dll
+D:\DesignPatterns\DesignPatterns.Bridge3\bin\Debug\net7.0\DesignPatterns.Bridge3.pdb
+D:\DesignPatterns\DesignPatterns.Bridge3\obj\Debug\net7.0\DesignPatterns.Bridge3.csproj.AssemblyReference.cache
+D:\DesignPatterns\DesignPatterns.Bridge3\obj\Debug\net7.0\DesignPatterns.Bridge3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\DesignPatterns.Bridge3\obj\Debug\net7.0\DesignPatterns.Bridge3.AssemblyInfoInputs.cache
+D:\DesignPatterns\DesignPatterns.Bridge3\obj\Debug\net7.0\DesignPatterns.Bridge3.AssemblyInfo.cs
+D:\DesignPatterns\DesignPatterns.Bridge3\obj\Debug\net7.0\DesignPatterns.Bridge3.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\DesignPatterns.Bridge3\obj\Debug\net7.0\DesignPatterns.Bridge3.dll
+D:\DesignPatterns\DesignPatterns.Bridge3\obj\Debug\net7.0\refint\DesignPatterns.Bridge3.dll
+D:\DesignPatterns\DesignPatterns.Bridge3\obj\Debug\net7.0\DesignPatterns.Bridge3.pdb
+D:\DesignPatterns\DesignPatterns.Bridge3\obj\Debug\net7.0\DesignPatterns.Bridge3.genruntimeconfig.cache
+D:\DesignPatterns\DesignPatterns.Bridge3\obj\Debug\net7.0\ref\DesignPatterns.Bridge3.dll

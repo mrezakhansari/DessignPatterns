@@ -1,0 +1,15 @@
+D:\DesignPatterns\DesignPatterns.Facade\bin\Debug\net7.0\DesignPatterns.Facade.exe
+D:\DesignPatterns\DesignPatterns.Facade\bin\Debug\net7.0\DesignPatterns.Facade.deps.json
+D:\DesignPatterns\DesignPatterns.Facade\bin\Debug\net7.0\DesignPatterns.Facade.runtimeconfig.json
+D:\DesignPatterns\DesignPatterns.Facade\bin\Debug\net7.0\DesignPatterns.Facade.dll
+D:\DesignPatterns\DesignPatterns.Facade\bin\Debug\net7.0\DesignPatterns.Facade.pdb
+D:\DesignPatterns\DesignPatterns.Facade\obj\Debug\net7.0\DesignPatterns.Facade.csproj.AssemblyReference.cache
+D:\DesignPatterns\DesignPatterns.Facade\obj\Debug\net7.0\DesignPatterns.Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\DesignPatterns.Facade\obj\Debug\net7.0\DesignPatterns.Facade.AssemblyInfoInputs.cache
+D:\DesignPatterns\DesignPatterns.Facade\obj\Debug\net7.0\DesignPatterns.Facade.AssemblyInfo.cs
+D:\DesignPatterns\DesignPatterns.Facade\obj\Debug\net7.0\DesignPatterns.Facade.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\DesignPatterns.Facade\obj\Debug\net7.0\DesignPatterns.Facade.dll
+D:\DesignPatterns\DesignPatterns.Facade\obj\Debug\net7.0\refint\DesignPatterns.Facade.dll
+D:\DesignPatterns\DesignPatterns.Facade\obj\Debug\net7.0\DesignPatterns.Facade.pdb
+D:\DesignPatterns\DesignPatterns.Facade\obj\Debug\net7.0\DesignPatterns.Facade.genruntimeconfig.cache
+D:\DesignPatterns\DesignPatterns.Facade\obj\Debug\net7.0\ref\DesignPatterns.Facade.dll
